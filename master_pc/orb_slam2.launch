@@ -1,0 +1,3 @@
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d ~/ros_dev/ORB_SLAM2/Exsamples/ROS/point.rviz" required="true" />
+</launch>
